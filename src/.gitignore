@@ -1,3 +1,9 @@
 venv/
 __pycache__/
 .vscode/
+
+# Local venv folders (accidentally created in repo root)
+Lib/
+Scripts/
+share/
+pyvenv.cfg
